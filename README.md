@@ -20,7 +20,7 @@ A robust and scalable backend API for an e-commerce application built with Node.
 <li>🛡️ Secure password handling</li>
 
 
-<h2>Tech Stack</h2>h2>
+<h2>Tech Stack</h2>
 
 <li>Node.js</li>
 
@@ -33,6 +33,7 @@ A robust and scalable backend API for an e-commerce application built with Node.
 <li>JSON Web Token (JWT)</li>
 
 <h2>📁 Project Structure</h2>h2>
+
 ├── controllers/
 ├── models/
 ├── routes/
