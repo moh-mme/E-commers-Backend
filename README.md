@@ -5,34 +5,34 @@ A robust and scalable backend API for an e-commerce application built with Node.
 
 <li>🔐 JWT Authentication & Authorization</li>
 
-👥 Role-Based Access Control (Admin / Manager / User)
+<li>👥 Role-Based Access Control (Admin / Manager / User)</li>
 
-📦 Product Management (CRUD)
+<li>📦 Product Management (CRUD)</li>
 
-🛒 Order Handling System
+<li>🛒 Order Handling System</li>
 
-👤 User Management System
+<li>👤 User Management System</li>
 
-🗄️ Database integration using Sequelize ORM
+<li>🗄️ Database integration using Sequelize ORM</li>
 
-⚡ RESTful API architecture
+<li>⚡ RESTful API architecture</li>
 
-🛡️ Secure password handling
+<li>🛡️ Secure password handling</li>
 
 
-Tech Stack
+<h2>Tech Stack</h2>h2>
 
-Node.js
+<li>Node.js</li>
 
-Express.js
+<li>Express.js</li>
 
-Sequelize ORM
+<li>Sequelize ORM</li>
 
-PostgreSQL (or any SQL DB)
+<li>PostgreSQL (or any SQL DB)</li>
 
-JSON Web Token (JWT)
+<li>JSON Web Token (JWT)</li>
 
-📁 Project Structure
+<h2>📁 Project Structure</h2>h2>
 ├── controllers/
 ├── models/
 ├── routes/
@@ -41,10 +41,10 @@ JSON Web Token (JWT)
 └── app.js
 🔑 Authentication
 
-This API uses JWT-based authentication.
-Include your token in headers:
+<h2>This API uses JWT-based authentication.</h2>
+<h3><u>Include your token in headers:</u></h3>
 
-Authorization: Bearer <your_token>
+<h2>Authorization: Bearer <u><your_token></u></h2>
 ⚙️ Getting Started
 npm install
 npm run dev
@@ -57,5 +57,5 @@ Managers/Admins have elevated permissions
 Environment variables are required (.env)
 
 👨‍💻 Author
-
+<h1><i>Mohammed Nattiq</i></h1>
 Backend developed for learning and building scalable API systems.
