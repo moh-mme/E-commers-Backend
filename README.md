@@ -3,7 +3,7 @@ A robust and scalable backend API for an e-commerce application built with Node.
 
 🚀 Features
 
-<i>🔐 JWT Authentication & Authorization</i>
+<li>🔐 JWT Authentication & Authorization</li>
 
 👥 Role-Based Access Control (Admin / Manager / User)
 
